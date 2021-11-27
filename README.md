@@ -1,8 +1,7 @@
-Start the server:
-```dart
-cd server && pub get && pub run graphql_starwars_test_server
-```
+This is a customized clone of https://github.com/zino-app/graphql-flutter/tree/beta/examples/starwars
 
-And then `flutter run`, or `flutter run -d chrome` for web support:
+and run alongside with https://github.com/solatin/flutter_graphql_server_starwars
+# Quick start
+Start the server at above repo and then
+`flutter run`, or `flutter run -d chrome` for web support:
 
-![flutter for web image](./for_web.png)
